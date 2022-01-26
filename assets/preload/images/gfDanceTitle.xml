@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 20000" x="0" y="0" width="743" height="625" frameX="-6" frameY="-10" frameWidth="765" frameHeight="639"/>
+	<SubTexture name="Symbol 20001" x="0" y="0" width="743" height="625" frameX="-6" frameY="-10" frameWidth="765" frameHeight="639"/>
+	<SubTexture name="Symbol 20002" x="743" y="0" width="750" height="634" frameX="0" frameY="-5" frameWidth="765" frameHeight="639"/>
+	<SubTexture name="Symbol 20003" x="743" y="0" width="750" height="634" frameX="0" frameY="-5" frameWidth="765" frameHeight="639"/>
+	<SubTexture name="Symbol 20004" x="0" y="634" width="753" height="634" frameX="-1" frameY="-1" frameWidth="765" frameHeight="639"/>
+	<SubTexture name="Symbol 20005" x="0" y="634" width="753" height="634" frameX="-1" frameY="-1" frameWidth="765" frameHeight="639"/>
+	<SubTexture name="Symbol 20006" x="753" y="634" width="764" height="635" frameX="-1" frameY="0" frameWidth="765" frameHeight="639"/>
+	<SubTexture name="Symbol 20007" x="753" y="634" width="764" height="635" frameX="-1" frameY="0" frameWidth="765" frameHeight="639"/>
+	<SubTexture name="Symbol 20008" x="0" y="1269" width="759" height="626" frameX="-6" frameY="-9" frameWidth="765" frameHeight="639"/>
+	<SubTexture name="Symbol 20009" x="0" y="1269" width="759" height="626" frameX="-6" frameY="-9" frameWidth="765" frameHeight="639"/>
+	<SubTexture name="Symbol 20010" x="759" y="1269" width="759" height="625" frameX="-6" frameY="-10" frameWidth="765" frameHeight="639"/>
+	<SubTexture name="Symbol 20011" x="759" y="1269" width="759" height="625" frameX="-6" frameY="-10" frameWidth="765" frameHeight="639"/>
+	<SubTexture name="Symbol 20012" x="759" y="1269" width="759" height="625" frameX="-6" frameY="-10" frameWidth="765" frameHeight="639"/>
+	<SubTexture name="Symbol 20013" x="759" y="1269" width="759" height="625" frameX="-6" frameY="-10" frameWidth="765" frameHeight="639"/>
+</TextureAtlas>
