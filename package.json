@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/AceTrainerAndrew/ewrtyhjretfghn#readme",
   "dependencies": {
+    "appcache-manifest": "^2.1.0",
     "haxe": "^5.2.1",
     "lime": "^0.1.1"
-  },
-  "devDependencies": {}
+  }
 }

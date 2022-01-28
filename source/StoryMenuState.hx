@@ -306,13 +306,13 @@ class StoryMenuState extends MusicBeatState
 			PlayState.SONG = Song.loadFromJson(StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase() + diffic, StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase());
 			PlayState.storyWeek = curWeek;
 			PlayState.campaignScore = 0;
-			if(curWeek == 1)
+	/*		if(curWeek == 1)
 			{
 				var video:MP4Handler = new MP4Handler();
 				video.playMP4(Paths.video('Week6Cutscene'), false, false, false, false);
 			}
 			else
-			{
+	*/		{
 				new FlxTimer().start(1, function(tmr:FlxTimer)
 				{
 					//CharacterState.previousState = new StoryMenuState();
