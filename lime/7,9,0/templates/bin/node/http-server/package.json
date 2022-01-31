@@ -130,7 +130,7 @@
   ],
   "name": "http-server",
   "optionalDependencies": {},
-  "preferGlobal": "true",
+  "preferGlobal": true,
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
