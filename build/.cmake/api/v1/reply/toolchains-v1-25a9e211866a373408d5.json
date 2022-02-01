@@ -5,23 +5,26 @@
 		{
 			"compiler" : 
 			{
-				"id" : "GNU",
+				"id" : "Clang",
 				"implicit" : 
 				{
 					"includeDirectories" : 
 					[
-						"/usr/lib/gcc/x86_64-linux-gnu/9/include",
 						"/usr/local/include",
+						"/usr/lib/llvm-13/lib/clang/13.0.0/include",
 						"/usr/include/x86_64-linux-gnu",
 						"/usr/include"
 					],
 					"linkDirectories" : 
 					[
-						"/usr/lib/gcc/x86_64-linux-gnu/9",
-						"/usr/lib/x86_64-linux-gnu",
-						"/usr/lib",
+						"/lib/gcc/x86_64-linux-gnu/9",
 						"/lib/x86_64-linux-gnu",
-						"/lib"
+						"/lib64",
+						"/usr/lib/x86_64-linux-gnu",
+						"/usr/lib64",
+						"/lib",
+						"/usr/lib/llvm-13/lib",
+						"/usr/lib"
 					],
 					"linkFrameworkDirectories" : [],
 					"linkLibraries" : 
@@ -33,8 +36,8 @@
 						"gcc_s"
 					]
 				},
-				"path" : "/bin/x86_64-linux-gnu-gcc-9",
-				"version" : "9.3.0"
+				"path" : "/bin/clang-13",
+				"version" : "13.0.0"
 			},
 			"language" : "C",
 			"sourceFileExtensions" : 
@@ -46,26 +49,29 @@
 		{
 			"compiler" : 
 			{
-				"id" : "GNU",
+				"id" : "Clang",
 				"implicit" : 
 				{
 					"includeDirectories" : 
 					[
-						"/usr/include/c++/9",
-						"/usr/include/x86_64-linux-gnu/c++/9",
-						"/usr/include/c++/9/backward",
-						"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+						"/include/c++/9",
+						"/include/x86_64-linux-gnu/c++/9",
+						"/include/c++/9/backward",
 						"/usr/local/include",
+						"/usr/lib/llvm-13/lib/clang/13.0.0/include",
 						"/usr/include/x86_64-linux-gnu",
 						"/usr/include"
 					],
 					"linkDirectories" : 
 					[
-						"/usr/lib/gcc/x86_64-linux-gnu/9",
-						"/usr/lib/x86_64-linux-gnu",
-						"/usr/lib",
+						"/lib/gcc/x86_64-linux-gnu/9",
 						"/lib/x86_64-linux-gnu",
-						"/lib"
+						"/lib64",
+						"/usr/lib/x86_64-linux-gnu",
+						"/usr/lib64",
+						"/lib",
+						"/usr/lib/llvm-13/lib",
+						"/usr/lib"
 					],
 					"linkFrameworkDirectories" : [],
 					"linkLibraries" : 
@@ -79,8 +85,8 @@
 						"gcc"
 					]
 				},
-				"path" : "/bin/x86_64-linux-gnu-g++-9",
-				"version" : "9.3.0"
+				"path" : "/bin/clang++-13",
+				"version" : "13.0.0"
 			},
 			"language" : "CXX",
 			"sourceFileExtensions" : 

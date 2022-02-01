@@ -6,12 +6,12 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
 					"projectIndex" : 0,
 					"source" : "."
 				}
 			],
-			"name" : "Release",
+			"name" : "",
 			"projects" : 
 			[
 				{
